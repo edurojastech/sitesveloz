@@ -15,7 +15,8 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preload" as="image" href="assets/hero-bg.webp" fetchpriority="high">
+  <link rel="preconnect" href="https://unpkg.com" crossorigin>
+  <link rel="preload" as="image" href="assets/hero-bg.jpg" fetchpriority="high">
 
   <meta property="og:type" content="website">
   <meta property="og:locale" content="pt_BR">
@@ -188,11 +189,12 @@
             <a href="#faq" style="color:#9FB0C4;" style-hover="color:#fff">FAQ</a>
             <a href="#contato" style="color:#9FB0C4;" style-hover="color:#fff">Contato</a>
           </nav>
-          <a href="{{ waLink }}" target="_blank" style="background:#10A98E; color:#04231E; font-weight:700; font-size:clamp(13px, 3vw, 14.5px); padding:10px clamp(14px, 3vw, 20px); border-radius:10px; box-shadow:0 6px 20px rgba(16,169,142,0.28); margin-left:auto;" style-hover="background:#14C7A6">Pedir orçamento</a>
+          <a href="{{ waLink }}" target="_blank" rel="noopener" style="background:#10A98E; color:#04231E; font-weight:700; font-size:clamp(13px, 3vw, 14.5px); padding:10px clamp(14px, 3vw, 20px); border-radius:10px; box-shadow:0 6px 20px rgba(16,169,142,0.28); margin-left:auto;" style-hover="background:#14C7A6">Pedir orçamento</a>
         </div>
       </header>
 
-      <section id="inicio" style="position:relative; padding:clamp(72px, 14vw, 104px) clamp(16px, 5vw, 32px) clamp(56px, 10vw, 96px); background-image:url(assets/hero-bg.webp); background-size:cover; background-position:center; background-repeat:no-repeat;">
+      <main>
+      <section id="inicio" style="position:relative; padding:clamp(72px, 14vw, 104px) clamp(16px, 5vw, 32px) clamp(56px, 10vw, 96px); background-image:url(assets/hero-bg.jpg); background-size:cover; background-position:center; background-repeat:no-repeat;">
         <div style="position:absolute; inset:0; background:linear-gradient(100deg, #0B1421 0%, rgba(11,20,33,0.96) 38%, rgba(11,20,33,0.72) 62%, rgba(11,20,33,0.55) 100%); pointer-events:none;">
         </div>
         <div style="position:absolute; inset:0; background:radial-gradient(700px 380px at 18% 30%, rgba(16,169,142,0.16), transparent 70%); pointer-events:none;">
@@ -211,7 +213,7 @@
               velocidade e credibilidade para a sua marca.
             </p>
             <div style="display:flex; gap:14px; margin-top:34px; flex-wrap:wrap;">
-              <a href="{{ waLink }}" target="_blank" style="display:inline-flex; align-items:center; gap:10px; background:#10A98E; color:#04231E; font-weight:700; font-size:16px; padding:16px 26px; border-radius:12px; box-shadow:0 12px 34px rgba(16,169,142,0.3);" style-hover="background:#14C7A6">
+              <a href="{{ waLink }}" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:10px; background:#10A98E; color:#04231E; font-weight:700; font-size:16px; padding:16px 26px; border-radius:12px; box-shadow:0 12px 34px rgba(16,169,142,0.3);" style-hover="background:#14C7A6">
                 Falar no WhatsApp
                 <span style="font-size:18px; line-height:1;">→</span>
               </a>
@@ -287,19 +289,19 @@
               <h2 style="font-family:Sora, sans-serif; font-weight:700; font-size:clamp(28px, 5vw, 40px); line-height:1.14; letter-spacing:-0.03em; color:#fff; margin:14px 0 0;">
                 Projetos no ar, gerando resultado</h2>
             </div>
-            <a href="{{ waLink }}" target="_blank" style="font-weight:600; font-size:15.5px; border-bottom:1px solid rgba(16,169,142,0.4); padding-bottom:3px;">Quero
+            <a href="{{ waLink }}" target="_blank" rel="noopener" style="font-weight:600; font-size:15.5px; border-bottom:1px solid rgba(16,169,142,0.4); padding-bottom:3px;">Quero
               um assim →</a>
           </div>
           <div class="sv-grid-2" style="display:grid; grid-template-columns:repeat(2, 1fr); gap:22px; margin-top:44px;">
             <sc-for list="{{ projects }}" as="p" hint-placeholder-count="4">
-              <a href="{{ p.url }}" target="_blank" style="display:block; border-radius:18px; overflow:hidden; border:1px solid rgba(255,255,255,0.09); background:#101B2E; transition:border-color .25s;" style-hover="border-color:rgba(16,169,142,0.5)">
+              <a href="{{ p.url }}" target="_blank" rel="noopener" style="display:block; border-radius:18px; overflow:hidden; border:1px solid rgba(255,255,255,0.09); background:#101B2E; transition:border-color .25s;" style-hover="border-color:rgba(16,169,142,0.5)">
                 <div style="padding:34px 34px 0; display:flex; flex-direction:column; align-items:center; background:radial-gradient(600px 300px at 50% 0%, rgba(16,169,142,0.1), transparent 70%);">
                   <div style="width:100%; border-radius:14px 14px 4px 4px; background:linear-gradient(180deg, #1E2C40, #16212F); border:1px solid rgba(255,255,255,0.12); padding:10px 10px 16px; box-shadow:0 18px 40px rgba(0,0,0,0.45);">
                     <div style="display:flex; align-items:center; gap:6px; padding:0 4px 9px;">
                       <span style="width:7px; height:7px; border-radius:50%; background:#3A4757; display:block;"></span>
                       <span style="width:7px; height:7px; border-radius:50%; background:#3A4757; display:block;"></span>
                       <span style="width:7px; height:7px; border-radius:50%; background:#3A4757; display:block;"></span>
-                      <span style="margin-left:6px; font-size:11px; color:#7C8DA1; font-family:Sora, sans-serif;">
+                      <span style="margin-left:6px; font-size:11px; color:#9FB0C4; font-family:Sora, sans-serif;">
                         {{
                         p.domain }}</span>
                     </div>
@@ -315,7 +317,7 @@
                         <img src="{{ p.shot }}" alt="{{ p.title }} — {{ p.tag }}" loading="lazy" decoding="async" style="position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:top center; display:block;" />
                       </sc-if>
                       <sc-if value="{{ p.showFrame }}" hint-placeholder-val="{{ true }}">
-                        <iframe src="{{ p.url }}" title="{{ p.title }}" scrolling="no" loading="lazy" style="width:400%; height:400%; border:0; transform:scale(0.25); transform-origin:top left; pointer-events:none; position:absolute; top:0; left:0; background:#fff;"></iframe>
+                        <iframe src="{{ p.url }}" title="{{ p.title }}" scrolling="no" loading="lazy" tabindex="-1" aria-hidden="true" style="width:400%; height:400%; border:0; transform:scale(0.25); transform-origin:top left; pointer-events:none; position:absolute; top:0; left:0; background:#fff;"></iframe>
                       </sc-if>
                     </div>
                   </div>
@@ -387,12 +389,13 @@
             <p style="font-size:clamp(15px, 2.2vw, 18px); line-height:1.6; color:#B4C3D3; margin:18px 0 0;">Conte o seu
               projeto no WhatsApp e receba uma proposta com escopo, prazo e valor — sem compromisso.</p>
             <div style="display:flex; gap:14px; margin-top:32px; flex-wrap:wrap; align-items:center;">
-              <a href="{{ waLink }}" target="_blank" style="display:inline-flex; align-items:center; gap:10px; background:#10A98E; color:#04231E; font-weight:700; font-size:16.5px; padding:17px 30px; border-radius:12px; box-shadow:0 14px 36px rgba(16,169,142,0.32);" style-hover="background:#14C7A6">Falar com um especialista →</a>
+              <a href="{{ waLink }}" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:10px; background:#10A98E; color:#04231E; font-weight:700; font-size:16.5px; padding:17px 30px; border-radius:12px; box-shadow:0 14px 36px rgba(16,169,142,0.32);" style-hover="background:#14C7A6">Falar com um especialista →</a>
               <span style="font-size:14.5px; color:#8496AA;">Resposta no mesmo dia útil</span>
             </div>
           </div>
         </div>
       </section>
+      </main>
 
       <footer style="border-top:1px solid rgba(255,255,255,0.07); padding:34px clamp(16px, 5vw, 32px);">
         <div style="max-width:1200px; margin:0 auto; display:flex; align-items:center; justify-content:space-between; gap:24px; flex-wrap:wrap;">
@@ -400,11 +403,11 @@
             <img src="assets/logo.webp" alt="SitesVeloz" style="width:30px; height:30px; border-radius:8px; display:block;" />
             <span style="font-size:14px; color:#8496AA;">© 2026 SitesVeloz — Agência Digital</span>
           </div>
-          <div style="font-size:14px; color:#8496AA;">Site desenvolvido por <a href="https://eduardorojas.com.br" target="_blank">Eduardo Rojas</a></div>
+          <div style="font-size:14px; color:#8496AA;">Site desenvolvido por <a href="https://eduardorojas.com.br" target="_blank" rel="noopener">Eduardo Rojas</a></div>
         </div>
       </footer>
 
-      <a href="{{ waLink }}" target="_blank" style="position:fixed; right:clamp(16px, 5vw, 26px); bottom:clamp(16px, 5vw, 26px); z-index:60; width:clamp(50px, 14vw, 60px); height:clamp(50px, 14vw, 60px); border-radius:50%; overflow:hidden; display:block; box-shadow:0 12px 30px rgba(0,0,0,0.35); transition:transform .2s;" style-hover="transform:scale(1.06)" aria-label="WhatsApp">
+      <a href="{{ waLink }}" target="_blank" rel="noopener" style="position:fixed; right:clamp(16px, 5vw, 26px); bottom:clamp(16px, 5vw, 26px); z-index:60; width:clamp(50px, 14vw, 60px); height:clamp(50px, 14vw, 60px); border-radius:50%; overflow:hidden; display:block; box-shadow:0 12px 30px rgba(0,0,0,0.35); transition:transform .2s;" style-hover="transform:scale(1.06)" aria-label="WhatsApp">
         <img src="assets/whatsapp.png" alt="WhatsApp" style="width:100%; height:100%; display:block; object-fit:cover;" />
       </a>
     </div>
@@ -437,8 +440,8 @@
       projects: [
         { url: "https://solidacredi.com.br/", title: "Solida Credi", desc: "Site institucional de crédito", tag: "Empresarial" },
         { url: "https://lp-fitmaker.netlify.app/", title: "FitMaker", desc: "Landing page fitness", tag: "Landing page" },
-        { url: "https://dev.eduardorojas.com.br/", title: "Eduardo Rojas", desc: "Portfólio de desenvolvedor frontend", tag: "Portfólio", shot: "assets/pf-eduardorojas.png" },
-        { url: "https://acelc.netlify.app/", title: "ACELC Corretora", desc: "Site institucional de planos e seguros", tag: "Empresarial", shot: "assets/pf-acelc.png" },
+        { url: "https://dev.eduardorojas.com.br/", title: "Eduardo Rojas", desc: "Portfólio de desenvolvedor frontend", tag: "Portfólio", shot: "assets/pf-eduardorojas.jpg" },
+        { url: "https://acelc.netlify.app/", title: "ACELC Corretora", desc: "Site institucional de planos e seguros", tag: "Empresarial", shot: "assets/pf-acelc.jpg" },
       ].map((p) => ({
         ...p,
         domain: p.url.replace(/^https?:\/\//, "").replace(/\/$/, ""),
