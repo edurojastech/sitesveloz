@@ -57,7 +57,8 @@ em tempo de execução — sem build step no servidor, tudo acontece no navegado
 - 🧩 Seções de serviços e portfólio renderizadas dinamicamente a partir de listas de dados
 - 🖼️ Cards de portfólio com preview em screenshot ou iframe ao vivo do projeto
 - ❓ FAQ em acordeão, sincronizado com dados estruturados `FAQPage`
-- 📈 SEO local + GEO: meta tags, Open Graph, geo tags, JSON-LD (`LocalBusiness`, `Service`, `BreadcrumbList`, `FAQPage`), `llms.txt` e robots liberando buscadores de IA
+- 📈 SEO local + GEO: meta tags, Open Graph, geo tags, JSON-LD (`LocalBusiness`, `Service`, `OfferCatalog`, `ItemList`, `BreadcrumbList`, `FAQPage`), `llms.txt` + `llms-full.txt` e robots liberando buscadores de IA
+- 🖼️ Imagem Open Graph própria para cada página de serviço (`assets/og/`, geradas a partir de `assets/og/_template.html`)
 - 📍 Páginas de serviço focadas em Uberlândia-MG (sites, landing pages, sistemas web, CRM, automação de WhatsApp) em HTML estático
 - ⚡ Otimizações de performance: `preconnect`, `preload` de imagem crítica, `lazy loading` e imagens em WebP
 - 📱 Layout responsivo (mobile, tablet e desktop)
@@ -70,13 +71,14 @@ sitesveloz/
 ├── support.js      # Runtime (dc-runtime) que interpreta e renderiza o template
 ├── robots.txt      # Diretivas para crawlers (inclui bots de IA)
 ├── llms.txt        # Resumo do negócio para assistentes de IA (GEO)
+├── llms-full.txt   # Conteúdo completo das páginas e FAQs para IA
 ├── sitemap.xml     # Mapa do site para indexação
 ├── criacao-de-sites-uberlandia/                 # Páginas de serviço (HTML estático,
 ├── landing-page-uberlandia/                     #  estilizadas por assets/pages.css)
 ├── desenvolvimento-de-sistemas-web-uberlandia/
 ├── crm-personalizado-uberlandia/
 ├── automacao-whatsapp-uberlandia/
-├── assets/         # Logo, imagens do hero, portfólio e ícones
+├── assets/         # Logo, imagens do hero, portfólio, ícones e og/ (imagens de compartilhamento)
 ├── uploads/        # Mídias enviadas pelo editor visual
 └── _backup/        # Versão anterior do site (HTML/CSS/JS tradicional), mantida como histórico
 ```

@@ -1,0 +1,487 @@
+# SitesVeloz — conteúdo completo
+
+> Versão completa do llms.txt da SitesVeloz (https://sitesveloz.com.br/llms.txt), com o texto das páginas de serviço e as perguntas frequentes, para uso por assistentes de IA e buscadores generativos. Última atualização: 2026-10-01.
+
+## Sobre a SitesVeloz
+
+A SitesVeloz é uma agência digital de Uberlândia, Minas Gerais (Brasil), fundada em 2019 pelo desenvolvedor web Eduardo Rojas (https://eduardorojas.com.br). Cria sites profissionais, landing pages de alta conversão, sistemas web sob medida, CRMs personalizados e automação de atendimento no WhatsApp com inteligência artificial.
+
+- Site: https://sitesveloz.com.br/
+- Sede: Uberlândia - MG, Brasil
+- Atende: Uberlândia, Uberaba, Araguari, Ituiutaba, Araxá, Patos de Minas, Monte Carmelo, todo o Triângulo Mineiro, Minas Gerais e demais estados do Brasil (online)
+- Números: mais de 5 anos de experiência, mais de 350 projetos entregues, mais de 125 clientes atendidos
+- WhatsApp (contato e orçamento): +55 (34) 99115-7227 — https://api.whatsapp.com/send?phone=5534991157227
+- Instagram: https://www.instagram.com/sitesveloz/
+- Preço: sob orçamento, conforme o escopo; proposta com escopo, prazo e valor enviada pelo WhatsApp, sem compromisso
+- Diferencial: o cliente fala direto com o desenvolvedor, sem intermediários, antes, durante e depois da entrega
+
+### Serviços
+
+- Criação de sites institucionais e empresariais — https://sitesveloz.com.br/criacao-de-sites-uberlandia/
+- Landing pages de alta conversão — https://sitesveloz.com.br/landing-page-uberlandia/
+- Desenvolvimento de sistemas web sob medida — https://sitesveloz.com.br/desenvolvimento-de-sistemas-web-uberlandia/
+- CRM personalizado — https://sitesveloz.com.br/crm-personalizado-uberlandia/
+- Automação de atendimento no WhatsApp com IA — https://sitesveloz.com.br/automacao-whatsapp-uberlandia/
+- Portfólios profissionais (para criativos, freelancers e profissionais liberais)
+- BioSites (páginas de links para Instagram, TikTok e WhatsApp)
+
+### Portfólio
+
+- Solida Credi — site institucional de crédito — https://solidacredi.com.br/
+- ACELC Corretora — site institucional de planos e seguros — https://acelc.com.br/
+- FitMaker — landing page fitness — https://lp-fitmaker.netlify.app/
+- Eduardo Rojas — portfólio de desenvolvedor frontend — https://dev.eduardorojas.com.br/
+
+---
+
+## Perguntas frequentes (página inicial)
+
+URL: https://sitesveloz.com.br/#faq
+
+**A SitesVeloz atende empresas de Uberlândia?**
+
+Sim. A SitesVeloz é uma agência digital de Uberlândia-MG e atende empresas de Uberlândia, do Triângulo Mineiro (Uberaba, Araguari, Ituiutaba, Araxá, Patos de Minas, Monte Carmelo) e de toda Minas Gerais. Também atendemos clientes de outros estados de forma 100% online.
+
+**Vocês desenvolvem sistemas web, CRM e automação de WhatsApp?**
+
+Sim. Além de sites e landing pages, desenvolvemos sistemas web sob medida — painéis administrativos, portais de clientes, agendamentos e automações — e CRMs personalizados para organizar leads e funil de vendas. Também automatizamos o atendimento no WhatsApp com inteligência artificial, para responder clientes, agendar e vender 24 horas por dia.
+
+**Quanto tempo leva para o meu site ficar pronto?**
+
+O prazo varia de acordo com o escopo do projeto. Trabalhamos com entrega ágil, sem abrir mão da qualidade, e o prazo exato é definido após alinharmos os detalhes com você.
+
+**Quanto custa um site profissional?**
+
+O valor depende do tipo de projeto — landing page, site institucional, portfólio ou biosite. Fale com a gente no WhatsApp e receba uma proposta personalizada, com escopo, prazo e valor, sem compromisso.
+
+**O site vai carregar rápido e aparecer bem no Google?**
+
+Sim. Todos os projetos da SitesVeloz são desenvolvidos com foco em performance e boas práticas de SEO, para carregar rápido e ter mais chances de ser bem posicionado nas buscas do Google.
+
+**Vocês criam sites para qualquer tipo de negócio?**
+
+Sim. Desenvolvemos sites institucionais, landing pages, sistemas web, CRMs, portfólios profissionais e biosites para negócios de diversos segmentos — de clínicas, salões e escritórios a indústrias e e-commerces — em Uberlândia, Minas Gerais e todo o Brasil.
+
+**Depois que o site fica no ar, tem suporte?**
+
+Sim. Você tem suporte direto com quem desenvolveu o seu site, sem intermediários.
+
+---
+
+## Criação de sites profissionais em Uberlândia
+
+URL: https://sitesveloz.com.br/criacao-de-sites-uberlandia/
+
+A SitesVeloz cria sites institucionais e empresariais para negócios de Uberlândia e de toda Minas Gerais: rápidos, bonitos no celular e preparados para aparecer no Google quando o cliente procura pelo seu serviço na cidade.
+
+### O que vem em todo site da SitesVeloz
+
+Um site profissional não é só visual: ele precisa carregar rápido, passar confiança e transformar visitas em contatos.
+
+#### Design sob medida
+
+Layout exclusivo com a identidade da sua marca — nada de template genérico igual ao do concorrente.
+
+#### SEO local para Uberlândia
+
+Títulos, textos e dados estruturados (Schema.org) pensados para buscas como “dentista em Uberlândia” ou “advogado no Triângulo Mineiro”.
+
+#### Velocidade e Core Web Vitals
+
+Imagens otimizadas, código enxuto e boas notas no PageSpeed — o Google favorece sites rápidos.
+
+#### Pronto para o celular
+
+Layout responsivo, botões de WhatsApp e ligação a um toque, mapa e rotas para quem está na rua.
+
+#### Conversão em contato
+
+Chamadas para ação claras, formulários e integração com WhatsApp para gerar orçamentos de verdade.
+
+#### Suporte direto
+
+Depois do site no ar, você continua falando com quem desenvolveu, sem intermediários.
+
+### Para quem fazemos sites em Uberlândia
+
+#### Saúde
+
+Clínicas, consultórios, dentistas e profissionais da saúde.
+
+#### Beleza e estética
+
+Salões de beleza, estética, barbearias e studios.
+
+#### Escritórios
+
+Advocacia, contabilidade e consultorias.
+
+#### Imóveis e seguros
+
+Construtoras, imobiliárias, corretoras e seguradoras.
+
+#### Indústria e agro
+
+Indústrias, distribuidores e empresas do agronegócio do Triângulo Mineiro.
+
+#### Comércio e serviços
+
+Prestadores de serviço, comércio local e restaurantes.
+
+### Como funciona a criação do seu site
+
+- Conversa inicial. Entendemos o seu negócio, o seu público em Uberlândia e região e o objetivo do site.
+
+- Proposta. Você recebe escopo, prazo e valor por escrito, sem compromisso.
+
+- Design e desenvolvimento. Criamos o layout, você aprova e o site é desenvolvido com foco em velocidade e SEO.
+
+- Publicação. Configuramos domínio, hospedagem, Google Search Console e indexação.
+
+- Suporte. Acompanhamos os primeiros resultados e fazemos ajustes quando precisar.
+
+### Sites que já colocamos no ar
+
+Alguns projetos entregues pela SitesVeloz. Veja mais no portfólio completo.
+
+ACELC CorretoraSite institucional de planos e seguros
+
+Eduardo RojasPortfólio de desenvolvedor frontend
+
+### Perguntas frequentes sobre criação de sites
+
+**Quanto custa criar um site em Uberlândia?**
+
+O valor depende do escopo: quantidade de páginas, funcionalidades (blog, formulários, integrações) e se o conteúdo já está pronto. A SitesVeloz envia uma proposta personalizada pelo WhatsApp, com escopo, prazo e valor, sem compromisso.
+
+**O site vai aparecer no Google para buscas em Uberlândia?**
+
+Todo site da SitesVeloz é entregue com SEO técnico e local: títulos e descrições com a sua cidade, dados estruturados Schema.org, carregamento rápido, versão mobile, sitemap e orientação para configurar o Perfil da Empresa no Google. Isso aumenta as chances de aparecer em buscas como “sua atividade + Uberlândia”.
+
+**Preciso estar em Uberlândia para contratar?**
+
+Não. A SitesVeloz é de Uberlândia e atende toda Minas Gerais e o Brasil de forma online, pelo WhatsApp e videochamada, com contato direto com o desenvolvedor.
+
+**O site funciona bem no celular?**
+
+Sim. Todos os sites são responsivos e desenvolvidos pensando primeiro no celular, que é de onde vem a maior parte das visitas de negócios locais.
+
+Orçamento: WhatsApp +55 (34) 99115-7227 — https://api.whatsapp.com/send?phone=5534991157227
+
+---
+
+## Criação de landing pages de alta conversão em Uberlândia
+
+URL: https://sitesveloz.com.br/landing-page-uberlandia/
+
+Páginas únicas, rápidas e objetivas para transformar o tráfego das suas campanhas em leads e vendas.
+Ideal para empresas de Uberlândia e de Minas Gerais que anunciam no Google, Instagram e Facebook.
+
+### Uma página, um objetivo: converter
+
+Cada elemento da landing page existe para levar o visitante a uma única ação — chamar no WhatsApp, preencher o formulário ou comprar.
+
+#### Carregamento rápido
+
+Páginas leves que abrem em poucos segundos no 4G — cada segundo a menos reduz o abandono e o custo por lead.
+
+#### Copy e estrutura persuasiva
+
+Título forte, prova social, benefícios, quebra de objeções e chamadas para ação no lugar certo.
+
+#### Pronta para tráfego pago
+
+Integração com Google Ads, Meta Pixel, Google Analytics e Tag Manager para medir cada conversão.
+
+#### WhatsApp e formulários
+
+Leads chegando direto no seu WhatsApp, e-mail ou CRM, sem perder nenhum contato.
+
+### Quando usar uma landing page
+
+- Campanhas de Google Ads e Meta Ads (Instagram e Facebook)
+
+- Lançamento de produto, curso ou serviço
+
+- Captação de leads para clínicas, imobiliárias, escolas e prestadores de serviço
+
+- Eventos, promoções sazonais e ofertas por tempo limitado
+
+- Validar uma nova oferta antes de investir em um site completo
+
+### Perguntas frequentes sobre landing pages
+
+**Qual a diferença entre landing page e site institucional?**
+
+O site institucional apresenta a empresa inteira, com várias páginas. A landing page é uma página única com um objetivo só — captar um lead, vender um produto ou inscrever em um evento — e por isso costuma converter mais em campanhas pagas.
+
+**A landing page funciona com Google Ads e Meta Ads?**
+
+Sim. As landing pages da SitesVeloz são preparadas para receber tráfego pago, com carregamento rápido (o que melhora o Índice de Qualidade do Google Ads), pixels e tags de conversão e botões de WhatsApp ou formulários.
+
+**Vocês fazem landing pages para empresas fora de Uberlândia?**
+
+Sim. A SitesVeloz é de Uberlândia-MG e atende empresas de toda Minas Gerais e de outros estados de forma online.
+
+Orçamento: WhatsApp +55 (34) 99115-7227 — https://api.whatsapp.com/send?phone=5534991157227
+
+---
+
+## Desenvolvimento de sistemas web sob medida em Uberlândia
+
+URL: https://sitesveloz.com.br/desenvolvimento-de-sistemas-web-uberlandia/
+
+Troque planilhas, papéis e retrabalho por um sistema feito para o processo da sua empresa. A SitesVeloz desenvolve sistemas web que rodam no navegador — no computador ou no celular — para empresas de Uberlândia e de Minas Gerais.
+
+### Que tipo de sistema desenvolvemos
+
+Cada empresa tem um gargalo diferente. Alguns exemplos do que dá para construir:
+
+#### Painéis administrativos
+
+Controle de cadastros, pedidos, estoque, financeiro e relatórios em um só lugar, com permissões por usuário.
+
+#### Portal do cliente
+
+Área logada para seus clientes acompanharem pedidos, contratos, documentos e boletos.
+
+#### Agendamentos e reservas
+
+Agenda online para clínicas, salões, consultórios e prestadores de serviço, com confirmação automática.
+
+#### Automações e integrações
+
+Conexão com WhatsApp, e-mail, gateways de pagamento, ERPs e APIs para eliminar tarefas manuais.
+
+#### Dashboards e relatórios
+
+Indicadores do negócio atualizados em tempo real para decidir com dados, não com achismo.
+
+#### CRM e gestão comercial
+
+Funil de vendas, leads e histórico de clientes — veja a página de CRM personalizado.
+
+### Como desenvolvemos o seu sistema
+
+- Diagnóstico. Mapeamos o processo atual, os gargalos e quem vai usar o sistema.
+
+- Proposta e escopo. Definimos as funcionalidades da primeira versão, prazos e valor.
+
+- Protótipo. Você vê e aprova as telas antes de qualquer linha de código.
+
+- Desenvolvimento em etapas. Entregas parciais para você testar e dar retorno durante o projeto.
+
+- Implantação e treinamento. Sistema publicado, equipe treinada e suporte direto com o desenvolvedor.
+
+### Por que escolher a SitesVeloz
+
+- Desenvolvedor dedicado, sem intermediários — você fala com quem programa
+
+- Tecnologias web modernas, seguras e com hospedagem em nuvem
+
+- Sistema 100% responsivo: funciona no computador, tablet e celular
+
+- Começo enxuto (MVP) e evolução contínua conforme a empresa cresce
+
+- Empresa de Uberlândia, atendendo todo o Triângulo Mineiro e Minas Gerais
+
+### Perguntas frequentes sobre sistemas web
+
+**O que é um sistema web?**
+
+É um software que roda no navegador, sem precisar instalar nada. Sua equipe e seus clientes acessam pelo computador ou celular, de qualquer lugar, com login e permissões por usuário.
+
+**Quanto custa desenvolver um sistema web sob medida?**
+
+Depende das funcionalidades, integrações e número de perfis de usuário. A SitesVeloz começa com uma conversa para mapear o processo da sua empresa e envia uma proposta com escopo, etapas, prazo e valor. Muitas vezes é possível começar por uma primeira versão enxuta (MVP) e evoluir aos poucos.
+
+**Por que um sistema sob medida e não uma planilha ou software pronto?**
+
+Planilhas não controlam acesso, quebram com o volume e dependem de trabalho manual. Softwares prontos obrigam a empresa a se adaptar a eles e cobram por usuário. Um sistema sob medida segue o seu processo, automatiza tarefas repetitivas e cresce junto com o negócio.
+
+**Vocês atendem empresas de Uberlândia e região?**
+
+Sim. A SitesVeloz é de Uberlândia-MG e desenvolve sistemas web para empresas de Uberlândia, do Triângulo Mineiro e de toda Minas Gerais, com contato direto com o desenvolvedor.
+
+Orçamento: WhatsApp +55 (34) 99115-7227 — https://api.whatsapp.com/send?phone=5534991157227
+
+---
+
+## CRM personalizado para empresas de Uberlândia e Minas Gerais
+
+URL: https://sitesveloz.com.br/crm-personalizado-uberlandia/
+
+Pare de perder leads no WhatsApp e em planilhas. A SitesVeloz desenvolve CRMs sob medida que organizam o seu funil de vendas, o histórico de cada cliente e o atendimento da equipe — do jeito que a sua empresa vende.
+
+### O que o seu CRM pode ter
+
+Funcionalidades escolhidas a partir do seu processo comercial — sem pagar por recursos que ninguém usa.
+
+#### Funil de vendas visual
+
+Negociações em quadro (kanban) por etapa, com valores, responsáveis e previsão de fechamento.
+
+#### Captura automática de leads
+
+Leads do site, landing pages, formulários e campanhas entrando direto no CRM, sem digitação.
+
+#### Integração com WhatsApp
+
+Histórico de conversas, mensagens padrão e lembretes de follow-up para ninguém ficar sem resposta.
+
+#### Cadastro completo de clientes
+
+Dados, documentos, compras e interações de cada cliente em uma ficha única.
+
+#### Tarefas e agenda da equipe
+
+Atividades, retornos e visitas organizados por vendedor, com alertas de prazo.
+
+#### Relatórios e metas
+
+Taxa de conversão, ticket médio, origem dos leads e desempenho por vendedor em tempo real.
+
+### Para quem é um CRM sob medida
+
+#### Imobiliárias e corretoras
+
+Imobiliárias, corretoras de seguros e de crédito.
+
+#### Clínicas e estética
+
+Clínicas, consultórios e centros de estética com muitos agendamentos.
+
+#### Educação
+
+Escolas, cursos e faculdades com captação de alunos.
+
+#### Indústria e B2B
+
+Distribuidores, indústrias e empresas B2B do Triângulo Mineiro.
+
+#### Equipes comerciais
+
+Times de vendas que atendem principalmente pelo WhatsApp.
+
+### Perguntas frequentes sobre CRM personalizado
+
+**O que é um CRM personalizado?**
+
+CRM (Customer Relationship Management) é o sistema que organiza leads, clientes, negociações e atendimentos. Um CRM personalizado é desenvolvido sob medida para as etapas de venda, os campos e as integrações da sua empresa, em vez de forçar a equipe a se adaptar a um software genérico.
+
+**Vale mais a pena um CRM sob medida ou um pronto, como RD Station, Pipedrive ou HubSpot?**
+
+CRMs prontos são ótimos para começar, mas cobram por usuário todo mês e nem sempre se encaixam no processo da empresa. Um CRM sob medida faz sentido quando a equipe cresce, quando o processo comercial é específico ou quando é preciso integrar com sistemas internos e WhatsApp sem gambiarras.
+
+**O CRM integra com WhatsApp e com o site?**
+
+Sim. É possível receber automaticamente os leads do site, das landing pages e de campanhas, registrar conversas e disparar mensagens e lembretes, conforme o escopo do projeto.
+
+**Vocês desenvolvem CRM para empresas de Uberlândia?**
+
+Sim. A SitesVeloz é de Uberlândia-MG e desenvolve CRMs para empresas de Uberlândia, do Triângulo Mineiro e de toda Minas Gerais, com suporte direto com o desenvolvedor.
+
+Orçamento: WhatsApp +55 (34) 99115-7227 — https://api.whatsapp.com/send?phone=5534991157227
+
+---
+
+## Automação de atendimento no WhatsApp 24 horas por dia, com IA
+
+URL: https://sitesveloz.com.br/automacao-whatsapp-uberlandia/
+
+Automatize o atendimento da sua empresa com inteligência artificial. Responda clientes, agende horários, envie informações e gere mais vendas mesmo quando você não estiver online.
+
+- Atendimento 24/7
+- Mais leads e vendas
+- Agendamento automático
+- Integração com seus sistemas
+
+### O que o seu atendente automático faz
+
+Um assistente treinado com as informações do seu negócio, que conversa de forma natural e nunca deixa cliente esperando.
+
+#### Responde dúvidas na hora
+
+Preços, horários, endereço, formas de pagamento, convênios, prazos — respostas instantâneas, de dia ou de madrugada.
+
+#### Agenda horários sozinho
+
+Consulta a agenda, oferece horários livres, confirma o agendamento e envia lembretes para reduzir faltas.
+
+#### Fecha vendas e orçamentos
+
+Apresenta produtos e serviços, envia catálogo e links de pagamento e conduz o cliente até a compra.
+
+#### Qualifica os leads
+
+Faz as perguntas certas e entrega para a sua equipe só os contatos prontos para fechar.
+
+#### Passa para um humano
+
+Quando o assunto exige uma pessoa, transfere a conversa para o atendente certo, com todo o histórico.
+
+#### Integra com agenda e CRM
+
+Leads e conversas registrados no seu CRM, agenda ou sistema, sem digitação manual.
+
+### Atendimento automático para qualquer nicho
+
+#### Clínicas e consultórios
+
+Agendamento de consultas e exames, confirmação de presença, dúvidas sobre convênios e preparo.
+
+#### Contadores e escritórios
+
+Triagem de novos clientes, dúvidas frequentes sobre impostos e MEI, recebimento de documentos.
+
+#### Lojas e e-commerces
+
+Catálogo, disponibilidade de produtos, frete, status de pedido e vendas direto pelo WhatsApp.
+
+#### Salões, estética e barbearias
+
+Agenda por profissional, tabela de serviços e lembretes automáticos de horário.
+
+#### Imobiliárias e corretoras
+
+Qualificação de interessados, envio de imóveis e planos, agendamento de visitas.
+
+#### Prestadores de serviço
+
+Orçamentos rápidos, agendamento de visitas técnicas e acompanhamento pós-venda.
+
+### Como implantamos a automação
+
+- Diagnóstico. Entendemos como os clientes chegam hoje, as perguntas mais comuns e onde as vendas se perdem.
+
+- Roteiro e treinamento. Montamos os fluxos e treinamos a IA com as informações, o tom de voz e as regras do seu negócio.
+
+- Integrações. Conectamos o WhatsApp à sua agenda, CRM, catálogo ou sistema.
+
+- Testes e ativação. Você testa, aprova e a automação entra no ar no número da empresa.
+
+- Acompanhamento. Analisamos as conversas e ajustamos as respostas para converter cada vez mais.
+
+### Perguntas frequentes sobre automação de WhatsApp
+
+**Como funciona o atendimento automático no WhatsApp?**
+
+Configuramos um assistente com inteligência artificial no WhatsApp da sua empresa, treinado com as informações do seu negócio: serviços, preços, horários, endereço e políticas. Ele responde os clientes na hora, a qualquer hora do dia, tira dúvidas, faz agendamentos, envia orçamentos e passa a conversa para um atendente humano quando necessário.
+
+**Funciona para o meu tipo de negócio?**
+
+Sim. A automação é personalizada para cada nicho: clínicas e consultórios (agendamento de consultas), contadores (dúvidas e envio de documentos), lojas e e-commerces (catálogo e vendas), salões e estéticas, imobiliárias, academias, escolas e prestadores de serviço em geral.
+
+**O robô substitui a minha equipe de atendimento?**
+
+Ele assume as perguntas repetitivas e o atendimento fora do horário comercial, e transfere para a sua equipe as conversas que precisam de uma pessoa. Assim ninguém fica sem resposta e a equipe foca em fechar negócios.
+
+**Posso continuar usando o mesmo número de WhatsApp?**
+
+Na maioria dos casos, sim. Avaliamos o seu cenário e indicamos a melhor forma de conectar a automação ao número da empresa, inclusive pela API oficial do WhatsApp Business.
+
+**A automação integra com agenda, CRM ou sistema da empresa?**
+
+Sim. A automação pode consultar e marcar horários na agenda, registrar leads no CRM, enviar lembretes e se conectar a sistemas internos, conforme o escopo do projeto.
+
+Orçamento: WhatsApp +55 (34) 99115-7227 — https://api.whatsapp.com/send?phone=5534991157227

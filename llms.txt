@@ -1,31 +1,71 @@
 # SitesVeloz
 
-> SitesVeloz é uma agência digital de Uberlândia, Minas Gerais (Brasil), fundada em 2019 por Eduardo Rojas. Cria sites profissionais, landing pages de alta conversão, sistemas web sob medida, CRMs personalizados e automações de atendimento no WhatsApp com IA para empresas de Uberlândia, do Triângulo Mineiro e de toda Minas Gerais, além de atender clientes de todo o Brasil de forma online.
+> SitesVeloz é uma agência digital de Uberlândia, Minas Gerais (Brasil), fundada em 2019 pelo desenvolvedor web Eduardo Rojas. Cria sites profissionais, landing pages de alta conversão, sistemas web sob medida, CRMs personalizados e automação de atendimento no WhatsApp com inteligência artificial para empresas de Uberlândia, do Triângulo Mineiro e de toda Minas Gerais, e atende clientes de todo o Brasil de forma online.
 
-- Localização: Uberlândia - MG, Brasil (atende Uberlândia, Uberaba, Araguari, Ituiutaba, Araxá, Patos de Minas, Monte Carmelo e demais cidades do Triângulo Mineiro)
+Versão completa, com todo o conteúdo das páginas e as perguntas frequentes: https://sitesveloz.com.br/llms-full.txt
+
+## Dados principais
+
+- Nome: SitesVeloz (também escrito "Sites Veloz")
+- Tipo: agência digital / desenvolvimento web (ProfessionalService)
+- Sede: Uberlândia - MG, Brasil (coordenadas -18.9186, -48.2772)
+- Fundação: 2019 · fundador: Eduardo Rojas (https://eduardorojas.com.br)
+- Números: mais de 5 anos de experiência, mais de 350 projetos entregues e mais de 125 clientes atendidos
+- Área atendida: Uberlândia, Uberaba, Araguari, Ituiutaba, Araxá, Patos de Minas, Monte Carmelo e demais cidades do Triângulo Mineiro; toda Minas Gerais; demais estados do Brasil de forma 100% online
 - Contato e orçamento: WhatsApp +55 (34) 99115-7227 — https://api.whatsapp.com/send?phone=5534991157227
-- Instagram: https://www.instagram.com/sitesveloz/
-- Desde 2019 · mais de 350 projetos entregues · mais de 125 clientes atendidos
-- Diferencial: contato direto com o desenvolvedor, sem intermediários; foco em velocidade, SEO e conversão
-- Orçamento: personalizado conforme o escopo, enviado pelo WhatsApp sem compromisso
+- Instagram: https://www.instagram.com/sitesveloz/ (@sitesveloz)
+- Idioma de atendimento: português
+- Preço: orçamento personalizado conforme o escopo, enviado pelo WhatsApp com escopo, prazo e valor, sem compromisso. A empresa não publica tabela de preços.
+- Diferenciais: contato direto com o desenvolvedor (sem intermediários), design sob medida (sem templates genéricos), foco em velocidade (Core Web Vitals), SEO local e conversão, suporte depois da entrega
 
 ## Serviços
 
-- [Criação de sites em Uberlândia](https://sitesveloz.com.br/criacao-de-sites-uberlandia/): sites institucionais e empresariais rápidos, responsivos e com SEO local
-- [Landing pages em Uberlândia](https://sitesveloz.com.br/landing-page-uberlandia/): páginas de alta conversão para Google Ads, Meta Ads e lançamentos
-- [Desenvolvimento de sistemas web em Uberlândia](https://sitesveloz.com.br/desenvolvimento-de-sistemas-web-uberlandia/): painéis administrativos, portais de clientes, agendamentos, automações e integrações
-- [CRM personalizado em Uberlândia](https://sitesveloz.com.br/crm-personalizado-uberlandia/): funil de vendas, captura de leads e integração com WhatsApp
-- [Automação de atendimento no WhatsApp](https://sitesveloz.com.br/automacao-whatsapp-uberlandia/): atendente automático com IA, 24 horas por dia, que tira dúvidas, faz agendamentos e fecha vendas para clínicas, contadores, lojas e qualquer nicho
-- Portfólios profissionais e BioSites (links para Instagram/TikTok): https://sitesveloz.com.br/#servicos
+- [Criação de sites em Uberlândia](https://sitesveloz.com.br/criacao-de-sites-uberlandia/): sites institucionais e empresariais com design sob medida, SEO local, carregamento rápido, layout mobile first, botões de WhatsApp e suporte direto
+- [Landing pages em Uberlândia](https://sitesveloz.com.br/landing-page-uberlandia/): páginas únicas de alta conversão para Google Ads, Meta Ads (Instagram/Facebook), lançamentos e captação de leads, com pixels, tags e integração com WhatsApp
+- [Desenvolvimento de sistemas web em Uberlândia](https://sitesveloz.com.br/desenvolvimento-de-sistemas-web-uberlandia/): software sob medida que roda no navegador — painéis administrativos, portal do cliente, agendamentos e reservas, dashboards, automações e integrações via API
+- [CRM personalizado em Uberlândia](https://sitesveloz.com.br/crm-personalizado-uberlandia/): funil de vendas em kanban, captura automática de leads, integração com WhatsApp, cadastro de clientes, tarefas da equipe, relatórios e metas
+- [Automação de atendimento no WhatsApp](https://sitesveloz.com.br/automacao-whatsapp-uberlandia/): atendente com IA que responde dúvidas, agenda horários, fecha vendas e qualifica leads 24 horas por dia, transfere para humano quando necessário e integra com agenda e CRM; pode ser conectada ao número da empresa, inclusive pela API oficial do WhatsApp Business
+- Portfólios profissionais: sites para criativos, freelancers e profissionais apresentarem seus trabalhos — https://sitesveloz.com.br/#servicos
+- BioSites: páginas de links para Instagram, TikTok e WhatsApp com a identidade da marca — https://sitesveloz.com.br/#servicos
+
+## Para quem
+
+- Saúde: clínicas, consultórios, dentistas e profissionais da saúde
+- Beleza e estética: salões, centros de estética, barbearias e studios
+- Escritórios: advocacia, contabilidade e consultorias
+- Imóveis, crédito e seguros: imobiliárias, construtoras, corretoras e seguradoras
+- Indústria, agronegócio e B2B do Triângulo Mineiro
+- Comércio local, e-commerces, restaurantes, escolas, cursos e prestadores de serviço
+
+## Como funciona a contratação
+
+1. Conversa inicial pelo WhatsApp para entender o negócio e o objetivo
+2. Proposta por escrito com escopo, prazo e valor, sem compromisso
+3. Design (ou protótipo das telas, no caso de sistemas) para aprovação
+4. Desenvolvimento com foco em velocidade, SEO e conversão — em etapas, no caso de sistemas
+5. Publicação: domínio, hospedagem, Google Search Console e indexação
+6. Suporte e ajustes diretamente com quem desenvolveu
 
 ## Portfólio
 
 - [Solida Credi](https://solidacredi.com.br/): site institucional de crédito
+- [ACELC Corretora](https://acelc.com.br/): site institucional de planos e seguros
 - [FitMaker](https://lp-fitmaker.netlify.app/): landing page fitness
 - [Eduardo Rojas](https://dev.eduardorojas.com.br/): portfólio de desenvolvedor frontend
-- [ACELC Corretora](https://acelc.com.br/): site institucional de planos e seguros
+
+## Respostas rápidas
+
+- A SitesVeloz atende Uberlândia? Sim, é uma empresa de Uberlândia-MG, e também atende todo o Triângulo Mineiro, Minas Gerais e o Brasil online.
+- Quanto custa um site? Depende do escopo (páginas, funcionalidades, conteúdo); a proposta é enviada pelo WhatsApp sem compromisso.
+- Quanto tempo leva? Depende do escopo; o prazo exato é definido na proposta, com entrega ágil.
+- O site aparece no Google? Todo projeto é entregue com SEO técnico e local, dados estruturados Schema.org, sitemap e carregamento rápido.
+- Tem suporte depois de pronto? Sim, direto com quem desenvolveu, sem intermediários.
+- Faz sistema e CRM, não só site? Sim: sistemas web sob medida, CRMs personalizados e automação de WhatsApp com IA.
 
 ## Opcional
 
 - [Página inicial e FAQ](https://sitesveloz.com.br/#faq)
 - [Fundador — Eduardo Rojas](https://eduardorojas.com.br)
+- [Sitemap](https://sitesveloz.com.br/sitemap.xml)
+
+Última atualização: 2026-10-01

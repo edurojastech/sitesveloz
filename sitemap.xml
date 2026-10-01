@@ -1,39 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://sitesveloz.com.br/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+    <image:image><image:loc>https://sitesveloz.com.br/assets/og-image.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://sitesveloz.com.br/criacao-de-sites-uberlandia/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image><image:loc>https://sitesveloz.com.br/assets/og/criacao-de-sites-uberlandia.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://sitesveloz.com.br/landing-page-uberlandia/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image><image:loc>https://sitesveloz.com.br/assets/og/landing-page-uberlandia.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://sitesveloz.com.br/desenvolvimento-de-sistemas-web-uberlandia/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image><image:loc>https://sitesveloz.com.br/assets/og/sistemas-web-uberlandia.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://sitesveloz.com.br/crm-personalizado-uberlandia/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image><image:loc>https://sitesveloz.com.br/assets/og/crm-personalizado-uberlandia.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://sitesveloz.com.br/automacao-whatsapp-uberlandia/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image><image:loc>https://sitesveloz.com.br/assets/og/automacao-whatsapp-uberlandia.jpg</image:loc></image:image>
   </url>
 </urlset>

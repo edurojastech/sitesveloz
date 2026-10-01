@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="pt-BR">
+<!--
+  Template das imagens Open Graph (1200x630) das páginas de serviço.
+  Gerar: chrome --headless=new --window-size=1200,630 --hide-scrollbars --allow-file-access-from-files
+         --screenshot=saida.png "file:///.../assets/og/_template.html#crm"   (sites | lp | sistemas | crm | zap)
+  Depois converter o PNG para JPG e salvar em assets/og/<slug>.jpg.
+-->
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Manrope:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1200px; height: 630px; overflow: hidden; background: #0B1421; }
+  .og {
+    position: relative; width: 1200px; height: 630px; overflow: hidden;
+    background:
+      radial-gradient(700px 500px at 88% 40%, rgba(16,169,142,.22), transparent 70%),
+      radial-gradient(600px 400px at 0% 100%, rgba(16,169,142,.10), transparent 70%),
+      linear-gradient(135deg, #0B1421 0%, #0E1A2B 60%, #0B1421 100%);
+    font-family: 'Manrope', sans-serif; color: #E8EEF5;
+  }
+  .grid {
+    position: absolute; inset: 0; opacity: .35;
+    background-image: linear-gradient(rgba(255,255,255,.04) 1px, transparent 1px),
+                      linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
+    background-size: 40px 40px;
+    mask-image: linear-gradient(90deg, transparent, #000 40%, #000);
+  }
+  .left { position: absolute; left: 72px; top: 64px; width: 600px; }
+  .brand { display: flex; align-items: center; gap: 12px; font-family: 'Sora'; font-weight: 800; font-size: 26px; color: #fff; }
+  .brand img { width: 44px; height: 44px; border-radius: 10px; }
+  .brand b { color: #10A98E; }
+  .pill {
+    display: inline-flex; align-items: center; gap: 10px; margin-top: 34px;
+    padding: 8px 16px; border-radius: 999px; border: 1px solid rgba(16,169,142,.45);
+    background: rgba(16,169,142,.10); color: #6EE7C8; font-weight: 700; font-size: 17px;
+  }
+  .pill::before { content: ''; width: 8px; height: 8px; border-radius: 50%; background: #10A98E; }
+  h1 {
+    margin-top: 22px; font-family: 'Sora'; font-weight: 800; font-size: 58px; line-height: 1.04;
+    letter-spacing: -1.5px; color: #fff;
+  }
+  h1 em { font-style: normal; color: #10A98E; }
+  p.sub { margin-top: 20px; font-size: 22px; line-height: 1.45; color: #9FB0C4; font-weight: 500; }
+  .chips { position: absolute; left: 72px; bottom: 58px; display: flex; gap: 8px; flex-wrap: nowrap; white-space: nowrap; }
+  .chip {
+    padding: 8px 13px; border-radius: 10px; font-size: 15px; font-weight: 700; color: #CBD7E4;
+    background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.10);
+  }
+  .chip::before { content: '✓  '; color: #10A98E; }
+  .right { position: absolute; right: 36px; top: 50%; transform: translateY(-50%); width: 500px; }
+  .right img { width: 100%; display: block; filter: drop-shadow(0 30px 40px rgba(0,0,0,.5)); }
+  .url {
+    position: absolute; right: 56px; bottom: 30px; font-size: 16px; font-weight: 700; color: #6B7F96;
+  }
+  .url b { color: #CBD7E4; }
+</style>
+</head>
+<body>
+<div class="og">
+  <div class="grid"></div>
+  <div class="left">
+    <div class="brand"><img id="logo" alt=""><span>Sites<b>Veloz</b></span></div>
+    <div class="pill" id="pill"></div>
+    <h1 id="h1"></h1>
+    <p class="sub" id="sub"></p>
+  </div>
+  <div class="chips" id="chips"></div>
+  <div class="right"><img id="ill" alt=""></div>
+  <div class="url"><b>sitesveloz.com.br</b> · WhatsApp (34) 99115-7227</div>
+</div>
+<script>
+  var ROOT = '../../';
+  var P = {
+    sites: {
+      pill: 'Criação de sites · Uberlândia-MG',
+      h1: 'Sites profissionais que <em>vendem</em> pela sua empresa',
+      sub: 'Institucionais e empresariais, rápidos, responsivos e prontos para o Google.',
+      chips: ['SEO local', 'Mobile first', 'Core Web Vitals', 'Suporte direto'],
+      ill: 'assets/ilustracoes/criacao-de-sites.svg'
+    },
+    lp: {
+      pill: 'Landing pages · Uberlândia-MG',
+      h1: 'Landing pages de <em>alta conversão</em>',
+      sub: 'Uma página, um objetivo: transformar cliques do Google Ads e Meta Ads em leads.',
+      chips: ['Carrega rápido', 'Tráfego pago', 'Pixels e tags', 'WhatsApp'],
+      ill: 'assets/ilustracoes/landing-page.svg'
+    },
+    sistemas: {
+      pill: 'Software sob medida · Uberlândia-MG',
+      h1: 'Sistemas web <em>sob medida</em> para sua empresa',
+      sub: 'Painéis, portais de clientes, agendamentos, automações e integrações.',
+      chips: ['Roda no navegador', 'MVP enxuto', 'Nuvem', 'Dev dedicado'],
+      ill: 'assets/ilustracoes/sistemas-web.svg'
+    },
+    crm: {
+      pill: 'CRM personalizado · Uberlândia-MG',
+      h1: 'CRM <em>feito para</em> o seu processo de vendas',
+      sub: 'Leads, funil de vendas, clientes e WhatsApp organizados em um só lugar.',
+      chips: ['Funil visual', 'Captura de leads', 'WhatsApp', 'Relatórios'],
+      ill: 'assets/ilustracoes/crm.svg'
+    },
+    zap: {
+      pill: 'Atendimento 24h · Uberlândia-MG',
+      h1: '<em>WhatsApp</em> com IA atendendo 24h',
+      sub: 'Responde dúvidas, agenda horários e fecha vendas enquanto você dorme.',
+      chips: ['Agenda sozinho', 'Qualifica leads', 'Passa p/ humano', 'Integra CRM'],
+      ill: 'assets/ilustracoes/automacao-whatsapp.svg'
+    }
+  };
+  var d = P[location.hash.slice(1)] || P.sites;
+  document.getElementById('logo').src = ROOT + 'assets/logo.webp';
+  document.getElementById('pill').textContent = d.pill;
+  document.getElementById('h1').innerHTML = d.h1;
+  document.getElementById('sub').textContent = d.sub;
+  document.getElementById('ill').src = ROOT + d.ill;
+  document.getElementById('chips').innerHTML = d.chips.map(function (c) { return '<span class="chip">' + c + '</span>'; }).join('');
+</script>
+</body>
+</html>
