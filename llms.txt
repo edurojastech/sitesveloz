@@ -1,0 +1,31 @@
+# SitesVeloz
+
+> SitesVeloz é uma agência digital de Uberlândia, Minas Gerais (Brasil), fundada em 2019 por Eduardo Rojas. Cria sites profissionais, landing pages de alta conversão, sistemas web sob medida, CRMs personalizados e automações de atendimento no WhatsApp com IA para empresas de Uberlândia, do Triângulo Mineiro e de toda Minas Gerais, além de atender clientes de todo o Brasil de forma online.
+
+- Localização: Uberlândia - MG, Brasil (atende Uberlândia, Uberaba, Araguari, Ituiutaba, Araxá, Patos de Minas, Monte Carmelo e demais cidades do Triângulo Mineiro)
+- Contato e orçamento: WhatsApp +55 (34) 99115-7227 — https://api.whatsapp.com/send?phone=5534991157227
+- Instagram: https://www.instagram.com/sitesveloz/
+- Desde 2019 · mais de 350 projetos entregues · mais de 125 clientes atendidos
+- Diferencial: contato direto com o desenvolvedor, sem intermediários; foco em velocidade, SEO e conversão
+- Orçamento: personalizado conforme o escopo, enviado pelo WhatsApp sem compromisso
+
+## Serviços
+
+- [Criação de sites em Uberlândia](https://sitesveloz.com.br/criacao-de-sites-uberlandia/): sites institucionais e empresariais rápidos, responsivos e com SEO local
+- [Landing pages em Uberlândia](https://sitesveloz.com.br/landing-page-uberlandia/): páginas de alta conversão para Google Ads, Meta Ads e lançamentos
+- [Desenvolvimento de sistemas web em Uberlândia](https://sitesveloz.com.br/desenvolvimento-de-sistemas-web-uberlandia/): painéis administrativos, portais de clientes, agendamentos, automações e integrações
+- [CRM personalizado em Uberlândia](https://sitesveloz.com.br/crm-personalizado-uberlandia/): funil de vendas, captura de leads e integração com WhatsApp
+- [Automação de atendimento no WhatsApp](https://sitesveloz.com.br/automacao-whatsapp-uberlandia/): atendente automático com IA, 24 horas por dia, que tira dúvidas, faz agendamentos e fecha vendas para clínicas, contadores, lojas e qualquer nicho
+- Portfólios profissionais e BioSites (links para Instagram/TikTok): https://sitesveloz.com.br/#servicos
+
+## Portfólio
+
+- [Solida Credi](https://solidacredi.com.br/): site institucional de crédito
+- [FitMaker](https://lp-fitmaker.netlify.app/): landing page fitness
+- [Eduardo Rojas](https://dev.eduardorojas.com.br/): portfólio de desenvolvedor frontend
+- [ACELC Corretora](https://acelc.com.br/): site institucional de planos e seguros
+
+## Opcional
+
+- [Página inicial e FAQ](https://sitesveloz.com.br/#faq)
+- [Fundador — Eduardo Rojas](https://eduardorojas.com.br)

@@ -57,7 +57,8 @@ em tempo de execução — sem build step no servidor, tudo acontece no navegado
 - 🧩 Seções de serviços e portfólio renderizadas dinamicamente a partir de listas de dados
 - 🖼️ Cards de portfólio com preview em screenshot ou iframe ao vivo do projeto
 - ❓ FAQ em acordeão, sincronizado com dados estruturados `FAQPage`
-- 📈 SEO completo: meta tags, Open Graph, Twitter Cards e JSON-LD (`Organization`, `WebSite`, `FAQPage`)
+- 📈 SEO local + GEO: meta tags, Open Graph, geo tags, JSON-LD (`LocalBusiness`, `Service`, `BreadcrumbList`, `FAQPage`), `llms.txt` e robots liberando buscadores de IA
+- 📍 Páginas de serviço focadas em Uberlândia-MG (sites, landing pages, sistemas web, CRM, automação de WhatsApp) em HTML estático
 - ⚡ Otimizações de performance: `preconnect`, `preload` de imagem crítica, `lazy loading` e imagens em WebP
 - 📱 Layout responsivo (mobile, tablet e desktop)
 
@@ -67,8 +68,14 @@ em tempo de execução — sem build step no servidor, tudo acontece no navegado
 sitesveloz/
 ├── index.html      # Página única: markup, estilos e template dos componentes
 ├── support.js      # Runtime (dc-runtime) que interpreta e renderiza o template
-├── robots.txt      # Diretivas para crawlers
+├── robots.txt      # Diretivas para crawlers (inclui bots de IA)
+├── llms.txt        # Resumo do negócio para assistentes de IA (GEO)
 ├── sitemap.xml     # Mapa do site para indexação
+├── criacao-de-sites-uberlandia/                 # Páginas de serviço (HTML estático,
+├── landing-page-uberlandia/                     #  estilizadas por assets/pages.css)
+├── desenvolvimento-de-sistemas-web-uberlandia/
+├── crm-personalizado-uberlandia/
+├── automacao-whatsapp-uberlandia/
 ├── assets/         # Logo, imagens do hero, portfólio e ícones
 ├── uploads/        # Mídias enviadas pelo editor visual
 └── _backup/        # Versão anterior do site (HTML/CSS/JS tradicional), mantida como histórico

@@ -1,4 +1,21 @@
+# SitesVeloz — criação de sites, landing pages, sistemas web e CRM em Uberlândia-MG
 User-agent: *
 Allow: /
+Disallow: /_backup/
+
+# Buscadores e assistentes de IA (GEO) — acesso liberado
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: Bingbot
+Allow: /
+Disallow: /_backup/
 
 Sitemap: https://sitesveloz.com.br/sitemap.xml
