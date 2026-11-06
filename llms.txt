@@ -49,6 +49,8 @@ Versão completa, com todo o conteúdo das páginas e as perguntas frequentes: h
 ## Portfólio
 
 - [Solida Credi](https://solidacredi.com.br/): site institucional de crédito
+- [Portal do Convidado](https://portal-do-convidado.decodingp.com/): portal digital para convidados de eventos
+- [UdiPrompts](https://udiprompts.com.br/): plataforma de prompts com inteligência artificial
 - [ACELC Corretora](https://acelc.com.br/): site institucional de planos e seguros
 - [FitMaker](https://lp-fitmaker.netlify.app/): landing page fitness
 - [Eduardo Rojas](https://dev.eduardorojas.com.br/): portfólio de desenvolvedor frontend

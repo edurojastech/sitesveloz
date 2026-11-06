@@ -28,6 +28,8 @@ A SitesVeloz é uma agência digital de Uberlândia, Minas Gerais (Brasil), fund
 ### Portfólio
 
 - Solida Credi — site institucional de crédito — https://solidacredi.com.br/
+- Portal do Convidado — portal digital para convidados de eventos — https://portal-do-convidado.decodingp.com/
+- UdiPrompts — plataforma de prompts com inteligência artificial — https://udiprompts.com.br/
 - ACELC Corretora — site institucional de planos e seguros — https://acelc.com.br/
 - FitMaker — landing page fitness — https://lp-fitmaker.netlify.app/
 - Eduardo Rojas — portfólio de desenvolvedor frontend — https://dev.eduardorojas.com.br/

@@ -371,64 +371,14 @@
         "@type": "ItemList",
         "@id": "https://sitesveloz.com.br/#portfolio",
         "name": "Portfólio SitesVeloz — projetos no ar",
-        "numberOfItems": 4,
+        "numberOfItems": 6,
         "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "item": {
-              "@type": "WebSite",
-              "name": "Solida Credi",
-              "url": "https://solidacredi.com.br/",
-              "description": "Site institucional de crédito",
-              "genre": "Site empresarial",
-              "creator": {
-                "@id": "https://sitesveloz.com.br/#organization"
-              }
-            }
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "item": {
-              "@type": "WebSite",
-              "name": "FitMaker",
-              "url": "https://lp-fitmaker.netlify.app/",
-              "description": "Landing page para negócio fitness",
-              "genre": "Landing page",
-              "creator": {
-                "@id": "https://sitesveloz.com.br/#organization"
-              }
-            }
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "item": {
-              "@type": "WebSite",
-              "name": "Eduardo Rojas",
-              "url": "https://dev.eduardorojas.com.br/",
-              "description": "Portfólio de desenvolvedor frontend",
-              "genre": "Portfólio profissional",
-              "creator": {
-                "@id": "https://sitesveloz.com.br/#organization"
-              }
-            }
-          },
-          {
-            "@type": "ListItem",
-            "position": 4,
-            "item": {
-              "@type": "WebSite",
-              "name": "ACELC Corretora",
-              "url": "https://acelc.com.br/",
-              "description": "Site institucional de planos e seguros",
-              "genre": "Site empresarial",
-              "creator": {
-                "@id": "https://sitesveloz.com.br/#organization"
-              }
-            }
-          }
+          { "@type": "ListItem", "position": 1, "item": { "@type": "WebSite", "name": "Solida Credi", "url": "https://solidacredi.com.br/", "description": "Site institucional de crédito", "genre": "Site empresarial", "creator": { "@id": "https://sitesveloz.com.br/#organization" } } },
+          { "@type": "ListItem", "position": 2, "item": { "@type": "WebSite", "name": "Portal do Convidado", "url": "https://portal-do-convidado.decodingp.com/", "description": "Portal digital para convidados de eventos", "genre": "Plataforma web", "creator": { "@id": "https://sitesveloz.com.br/#organization" } } },
+          { "@type": "ListItem", "position": 3, "item": { "@type": "WebSite", "name": "UdiPrompts", "url": "https://udiprompts.com.br/", "description": "Plataforma de prompts com inteligência artificial", "genre": "Plataforma web", "creator": { "@id": "https://sitesveloz.com.br/#organization" } } },
+          { "@type": "ListItem", "position": 4, "item": { "@type": "WebSite", "name": "FitMaker", "url": "https://lp-fitmaker.netlify.app/", "description": "Landing page para negócio fitness", "genre": "Landing page", "creator": { "@id": "https://sitesveloz.com.br/#organization" } } },
+          { "@type": "ListItem", "position": 5, "item": { "@type": "WebSite", "name": "Eduardo Rojas", "url": "https://dev.eduardorojas.com.br/", "description": "Portfólio de desenvolvedor frontend", "genre": "Portfólio profissional", "creator": { "@id": "https://sitesveloz.com.br/#organization" } } },
+          { "@type": "ListItem", "position": 6, "item": { "@type": "WebSite", "name": "ACELC Corretora", "url": "https://acelc.com.br/", "description": "Site institucional de planos e seguros", "genre": "Site empresarial", "creator": { "@id": "https://sitesveloz.com.br/#organization" } } }
         ]
       },
       {
@@ -1011,7 +961,9 @@
         "Suporte direto com quem desenvolveu",
       ],
       projects: [
-        { url: "https://solidacredi.com.br/", title: "Solida Credi", desc: "Site institucional de crédito", tag: "Empresarial" },
+        { url: "https://solidacredi.com.br/", title: "Solida Credi", desc: "Site institucional de crédito", tag: "Empresarial", shot: "assets/pf-solidacredi.webp" },
+        { url: "https://portal-do-convidado.decodingp.com/", title: "Portal do Convidado", desc: "Portal digital para convidados de eventos", tag: "Plataforma" },
+        { url: "https://udiprompts.com.br/", title: "UdiPrompts", desc: "Plataforma de prompts com inteligência artificial", tag: "Plataforma", shot: "assets/pf-udiprompts.png" },
         { url: "https://lp-fitmaker.netlify.app/", title: "FitMaker", desc: "Landing page fitness", tag: "Landing page" },
         { url: "https://dev.eduardorojas.com.br/", title: "Eduardo Rojas", desc: "Portfólio de desenvolvedor frontend", tag: "Portfólio", shot: "assets/pf-eduardorojas.jpg" },
         { url: "https://acelc.com.br/", title: "ACELC Corretora", desc: "Site institucional de planos e seguros", tag: "Empresarial", shot: "assets/pf-acelc.jpg" },
@@ -1019,7 +971,7 @@
         ...p,
         domain: p.url.replace(/^https?:\/\//, "").replace(/\/$/, ""),
         // estes domínios bloqueiam incorporação (X-Frame-Options): usam o card branded
-        showFrame: !/dev\.eduardorojas\.com\.br|acelc\.com\.br/.test(p.url),
+        showFrame: !/dev\.eduardorojas\.com\.br|acelc\.com\.br|solidacredi\.com\.br|udiprompts\.com\.br/.test(p.url),
       })),
     };
   };
